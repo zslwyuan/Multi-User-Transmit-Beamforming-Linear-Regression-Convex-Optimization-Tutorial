@@ -2,7 +2,9 @@ This is the homework 2 of ELEC 5470 Convex Optimization. In this homework, we us
 
 It could be a basic tutorial for using CVX package in MATLAB. Before trying these source code, user should first intall CVX for MATLAB properly. (http://cvxr.com/cvx/doc/install.html)
 
-How to use these source code and how they work? Please refer to the report HW2.pdf.
+How to use these source code and how they work? Please refer to the report:
+
+https://github.com/zslwyuan/Multi-User-Transmit-Beamforming-Linear-Regression-Convex-Optimization-Homework/blob/master/HW2.pdf
 
 Hope they help. Please note that, this work refers to the following works:
 
