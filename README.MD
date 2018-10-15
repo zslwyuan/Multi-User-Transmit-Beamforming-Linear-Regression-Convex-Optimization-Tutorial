@@ -1,8 +1,6 @@
 This is the homework 2 of ELEC 5470 Convex Optimization. In this homework, we use convex optimization package in MATLAB to implement linear regression and multi-user transmit beamforming problem.
 
-It could be a basic tutorial for using CVX package in MATLAB. Before trying these source code, user should first intall CVX for MATLAB properly. (http://cvxr.com/cvx/doc/install.html
-
-)
+It could be a basic tutorial for using CVX package in MATLAB. Before trying these source code, user should first intall CVX for MATLAB properly. (http://cvxr.com/cvx/doc/install.html)
 
 How to use these source code and how they work? Please refer to the report HW2.pdf.
 
